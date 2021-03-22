@@ -1,2 +1,3 @@
 # git-tutorial2021
-GitHubのゼミ練習会
+
+今日は、勉強会です。
